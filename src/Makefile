@@ -78,7 +78,7 @@ CFLAGS=		-O4 -ansi -W
 
 
 # Choose the place for the different files
-XFE_DIR = /home/guerin/xfe
+XFE_DIR = /home/guerin/xfractal_explorer
 ANIM_DIR = $(XFE_DIR)/Anim
 IMAGE_DIR = $(XFE_DIR)/Images
 PALETTE_DIR = $(XFE_DIR)/Palettes
