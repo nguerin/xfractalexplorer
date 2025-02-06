@@ -1,0 +1,399 @@
+		==========================
+		= XFRACTAL_EXPLORER v1.1 =     November 94
+		==========================
+
+
+
+Copyright Notice
+================
+Copyright 1994 by Nicolas GUERIN
+
+Permission to use, copy, and distribute xfe in its entirety, for 
+non-commercial purposes, is hereby granted without fee, provided that
+this license information and copyright notice appear in all copies.
+ 
+The software may be modified for your own purposes, but modified
+versions may NOT be distributed without prior consent of the author.
+
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the author be held liable for any damages
+arising from the use of this software.
+
+If you would like to do something with xfe that this copyright
+prohibits (such as distributing it with a commercial product, 
+using portions of the source in some other program, etc.), please
+contact the author (preferably via email).  Arrangements can
+probably be worked out.
+ 
+xfe is freeware for PERSONAL USE only.  You may use xfe for your own
+amusement, and if you find it nifty, useful, generally cool, or of
+some value to you, please register so as to receive the latest versions
+of xfe, and to make me happy. Just send me an email with your
+impressions, ideas, bugs...
+
+ 
+The author may be contacted via:
+      Mail:  Nicolas Guerin
+             168 Avenue Parmentier
+             75010 PARIS
+             FRANCE
+ 
+   EMail:    guerin@reseau.onecert.fr
+
+
+DISTRIBUTION POLICY
+===================
+
+	Xfe is freeware. You may copy and distribute it.
+You may also want to modify this program. If you think that 
+your modificatons can be useful to other users, please contact
+me so that I can include your modification in the next release.
+Thanks for not spreading modified versions of xfe without my
+consent.
+see the 'TODO' file for some ideas...
+
+
+INTRODUCTION
+============
+
+	XFractal_explorer is, as you may have already understood, a program
+which allows you to compute and explore fractals. The types of fractals 
+available are:
+- Mandelbrot
+- Julia
+- Mandel-n
+- Julia-n
+- Newton
+- Lambda & MandelLambda
+- Mark's Mandel & Julia
+- Barnsley 1,2,3 Mandel & Julia
+- MandelCosine & JuliaCosine
+- MandelSine & JuliaSine
+- Noel 1 & 2
+- Phoenix
+- Spider
+
+	The program runs under X Window and uses Motif. Furthermore, it needs
+a 8 plane display (256 colors).
+
+
+USAGE
+=====
+
+xfe [-lang (eng/fra)]
+    [-type (mandel/julia/newton/mandellambda/lambda/noel1/noel2/spider/phoenix
+            mandel-n/julia-n/barnm1/barnj1/barnm2/barnj2/barnm3/barnj3/tetrate
+            mcos/jcos/msin/jsin/mexp/jexp/markm/markj)]
+    [-size width height]
+    [-iter n]
+    [-const Re(c) Im(c)]
+    [-int n]
+    [-coord left up right down]
+    [-logpalette]
+    [-estimator]
+    [-nobuffer]
+    [-palette filename.map]
+
+-lang : This program can communicate either in French and in English. The only way
+	to change the language is to use this command.
+
+-type : Changes the fractal type
+
+-size : Changes the initial size of the window. The default value is 640x512
+
+-iter : Changes the number of iterations. The default number is 250.
+
+-const : This option allows you to change the value of the complex constant
+	 used for several fractal types: Julia, Lambda, Noel...
+
+-int   : Changes the value of the integer parameter used in the Newton fractal
+
+-coord : This option allows you to change the initial coordinates of the four
+	 corners of the screen. Useful to save time.
+
+-logpalette : Puts the program in the 'logarithmic palette' mode
+
+-estimator : Puts the program in the 'distance estimator' mode
+
+-nobuffer : disables the color buffer display.
+
+-palette : Allows to change the palette. The name must contain the full pathname
+	   e.g. Palettes/filename.map
+
+	All these options can be displayed with the command: xfe ? or xfe -h or 
+xfe -help.
+
+
+
+FIRST CONTACT
+=============
+
+First, you have to compile the program. Modify the Makefile for your system and
+type 'make'. Then the program can be run by the command 'xfe'.
+Two windows appear. One contains the menus and buttons, whereas the other is
+the display window.
+Click on 'GO' : the program starts displaying the Mandelbrot set. We can notice
+that it uses blocks of decreasing size to display the fractal. This allows you 
+to have a good idea of the fractal without having to wait for hours...
+You may also see thats it uses a color buffer to accelerate the display.
+Pressing the 3rd mouse-button makes a refresh on the display window (this
+empties the buffers) .
+Now press the 2nd mouse-button. The program stops the computation. Clicking on
+'GO' would make it go on. Go in the 'Computation' menu and select 'Zoom center
+prop(ortionnal)'. Then click in an interesting area of the Mandelbrot set and
+move the mouse cursor: a rectangle appears. Once you've chosen the best size,
+depress the first mouse-button and press the 2nd.
+Now you can click 'GO'. 
+You've just done your first zoom in the Mandelbrot set. Go on like this !!
+
+
+
+EXPLANATION OF EACH MENU ITEM
+=============================
+
+File
+----
+	This menu allows you to save and load an image. The PPM and Postcript
+save options only work as background tasks. You must choose first all the 
+parameters you have to modify and then try one of these 2 menus. This posibility
+is very useful for long computations. Then you may find it useful to use
+the UNIX command 'nohup'.
+	You can also save and load GIF files. But be careful: some bugs are
+remaining, so check your GIF file before exiting the program.
+	With each picture you save, the program also saves a name.par file
+which contains all the image parameters.
+	You can also create the parameter file by using the command 'save
+parameter'. Then, you will be able to reload this file by using the menu
+'load parameter'. Xfe is provided with some interesting parameter files.
+
+
+Display
+-------
+- Estimator: allows you to get beautiful monochrome pictures (e.g. for postscript
+  files). The algorithm was taken from 'The Science of Fractal Images' (S. Verlag).
+
+- Normal: normal, i.e. the unique color mode.
+
+
+Options
+-------
+- Logarithmic palette:
+	Very useful when doing deep zooms with a high number of iterations. The palette
+used is not cyclic any more (1 iteration = 1 color) but calculated so that it covers
+the whole number of iterations in a row. Before displaying anything, the program has
+to compute his palette, which can take some time...
+
+- Color buffer :
+	The user can disable the color buffer.
+
+- Events handling :
+	Disabling the event handler can speed up the display. Unfortunately, in this
+  case, the user can not stop the computation.
+  
+- Rectangle to pixel :
+	This allows the user to display the whole picture in a row.
+
+- Bell :
+	With this option on, the program will emit a beep at the end of the computation.
+  This is useful when the program is iconified.
+
+- High precision :
+	This is an extra feature of xfe. The program is not limited by double presicion
+  floats. This option allows the program to use quadruple precision floats (long double).
+  The problem is that it slows the program a lot.
+  This option is only available for the Mandelbrot set.
+
+
+
+Palette
+-------
+
+	xfe uses 256 colors. Two of them are reserved: black and white. The
+others depend on the current palette.
+	The program is delivered with many palettes that can be loaded from
+the program. Many of them were designed for xfractint, but I have made xfe
+compatible with this kind of palettes so that it is possible to use them in
+this program.
+The user can also create his own palettes.
+The format is:
+0 0 0		/* Red Green Blue color coding
+0 0 16		/* values between 0 and 255
+0 16 32
+...
+
+	You can also display the palette in a very simple way.
+At last, the program allows you to cycle colors: nice effects !!
+You can chose the number of cycles, the way it goes and its speed.
+Be careful when loading GIF pictures: the palette is rearranged and the cycle
+is not so nice.
+
+
+
+Parameters
+----------
+
+- Constant: You can easily modify the value of the several constants.
+	Complex constant = for julia sets, lambda, noel...
+	Integer constant = for the Newton fractal, Mark's...
+
+- Image size:
+	The program handles any kind of size. If the selected size is
+  bigger than the screen size (modify it in fractal_type.h), then the
+  program won't display anything. You will have to select a background
+  computation: PPM save or Postscript save.
+
+- Click constant:
+	As you may know, Julia sets depend on a complex parameter, that could
+  be represented by a point in the complex plane.
+  If this point is in the Mandelbrot Set, then the Julia set is connected.
+  Else, the Julia set explodes in an infinity of points.
+  You will then understand that the most beautiful Julia sets have parameters
+  that can be found in the boundary of the Mandelbrot Set.
+  This option allows you to zoom near the boundary of the Mandelbrot Set and 
+  then click with the mouse a point on the screen. Then, choose the Julia mode
+  and enjoy !
+
+- Number of iterations:
+	This is an important parameter to have a nice looking display. You 
+  have to increase this number as soon as the boundary seems smooth, or there
+  is to much black on your screen...
+  But be careful ! The higher the number of iterations, the longer the computation...
+
+- Buffer size:
+	You can change the size of the display buffer.
+
+- Bailout value:
+	This is another parameter you can change. Be careful, enter the bailout
+  value SQUARED.
+
+
+
+TYPE
+----
+
+This menu allows you to change the fractal type. Here, I will just give you the
+formula of each type:
+n => integer parameter
+c => complex parameter
+
+ Mandelbrot	z=z^2+z0 
+ Julia:		z=z^2+c
+ 
+ Mandel-n	z=z^n+z0
+ Julia-n	z=z^n+c
+ 
+ Newton:	z^n-1=0
+ 
+ Mandellambda	z=z0*z*(1-z)
+ Lambda:	z=c*z*(1-z)
+ 
+ BarnsleyMand1	z=z0*(z-1)       if z.re>0
+ 		z=conj(z0)*(z+1) else
+ BarnsleyJulia1	z=c*(z-1)       if z.re>0
+ 		z=conj(c)*(z+1) else
+ 		
+ BarnsleyMand2	z=z0*(z-1)       if z.re*z0.im+z0.re*z.im>0
+ 		z=conj(z0)*(z+1) else
+ BarnsleyJulia2	z=c*(z-1)       if z.re*c.im+c.re*z.im>0
+ 		z=conj(c)*(z+1) else
+ 		
+ BarnsleyMand3	z=z^2-1                         if z.re>0
+ 		z=z^2+z0.re*z.re+i*(z0.im*z.re) else
+ BarnsleyJulia3	z=z^2-1                         if z.re>0
+ 		z=z^2+c.re*z.re+i*(c.im*z.re)   else
+ 		
+ MandelCos	z=z0*cos(z)
+ JuliaCos	z=c*cos(z)
+ 
+ MandelSin	z=z0*sin(z)
+ JuliaSin	z=c*sin(z)
+ 
+ Mark's Mandel	z=z0+z0^n*z^2
+ Mark's Julia	z=c+c^n*z^2
+ 
+ Spider:	z=z^2+w
+		w=w/2+z
+		
+ Noel1:		z(n)=z(n-1)^2+z(n-2)
+ 
+ Noel2:		z(n)=z(n-1)^2+conjuguate(z(n-2))
+ 
+ Phoenix:	z(n)=z(n-1)^2+x1+x2
+		x1=Im(z0)*z(n-1)
+		x2=Re(z0)
+
+
+Library
+-------
+
+Each time the program saves a picture, it also writes the picture's
+description in the 'FractBibli' file: coordinates, number of iterations...
+Then the program 'remembers' the pictures it has already calculated,
+and proposes to load them back, with the function 'zoom in'.
+This file is in ASCII mode and you may have to modify it from time
+to time: you can remove files, rename them...
+The program can only load GIF files.
+
+
+
+Computation
+-----------
+
+This is the core of the program. These functions allow you to compute new
+pictures. The diferent functions allow you to zoom with diferent ways.
+Enter coords allows you to type in the coordinates you want. You can either
+choose to keep the same picture size or modify it...
+
+
+
+Animation
+---------
+
+This nice function allows you to save a series of pictures in the PPM format.
+You then have to assemble them with another program like 'mpeg_encode'...
+Be careful! these pictures need a big disk space (e.g. 350 PPM pictures
+320x256 = 100 Mo ! ).
+
+- Picture to picture
+	You first have to select the parameters of the first picture of your
+  animation, then those of the last. The program will compute the intermediate
+  pictures. The program will also save an information file.
+
+- Source point to source point:
+	You can make animations with Julia sets, moving the complex parameter
+  along a line. You just have to enter the first and last values.
+
+The 'nohup' command is very useful when making animations...
+
+
+
+The 'Status' button
+-------------------
+
+	It opens a window which contains the different parameters of the fractal:
+coords, type, iterations...
+Double-click its close button to exit.
+It seems that there might be a problem with the fonts on some platforms. Just
+tell me please if it is so.
+
+
+
+CONCLUSION
+==========
+
+This is a brief description of the program. You will have to use it to know
+every detail of it. I know this is not the most complete fractal program
+(cf xfractint ) but I think it is the most easy to use and it is quite
+powerful.
+
+
+
+
+For any comment, suggestion, bug, advice or whatever, please contact me:
+
+Nicolas GUERIN
+168 Avenue Parmentier
+75010 PARIS
+FRANCE
+
+email: guerin@reseau.onecert.fr

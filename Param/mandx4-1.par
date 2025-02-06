@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/tmp_mnt/users/odin/promo_95/guerin/TEP/Images/mandx4-1.par
+# Coordinates
+LEFT    :3.597623586654663285645726991927201e-01
+TOP     :7.008681669831276329001394355748596e-01
+RIGHT   :3.598010011017322740012880978162232e-01
+BOTTOM  :7.008372530341148765507671166760571e-01
+# Iterations
+ITER    :3000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :27
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :4
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/tmp_mnt/users/odin/promo_95/guerin/TEP/Palettes/royal.map

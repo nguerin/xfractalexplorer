@@ -1,0 +1,1 @@
+cd ../backup; tar cvf backup`date +%y%m%d`.tar ../src/*.c ../src/*.h ../src/*.lang ../src/Makefile; gzip backup`date +%y%m%d`.tar

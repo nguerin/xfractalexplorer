@@ -1,0 +1,113 @@
+		==========================
+		= XFRACTAL_EXPLORER v1.1 =	September 94
+		==========================
+
+
+
+Copyright Notice
+================
+Copyright 1994 by Nicolas GUERIN
+
+Permission to use, copy, and distribute xfe in its entirety, for 
+non-commercial purposes, is hereby granted without fee, provided that
+this license information and copyright notice appear in all copies.
+ 
+The software may be modified for your own purposes, but modified
+versions may NOT be distributed without prior consent of the author.
+
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the author be held liable for any damages
+arising from the use of this software.
+
+If you would like to do something with xfe that this copyright
+prohibits (such as distributing it with a commercial product, 
+using portions of the source in some other program, etc.), please
+contact the author (preferably via email).  Arrangements can
+probably be worked out.
+ 
+xfe is freeware for PERSONAL USE only.  You may use xfe for your own
+amusement, and if you find it nifty, useful, generally cool, or of
+some value to you, please register so as to receive the latest versions
+of xfe, and to make me happy. Just send me an email with your
+impressions, ideas, bugs...
+
+ 
+The author may be contacted via:
+      Mail:  Nicolas Guerin
+             168 Avenue Parmentier
+             75010 PARIS
+             FRANCE
+ 
+   EMail:    guerin@reseau.onecert.fr
+
+
+
+DISTRIBUTION POLICY
+===================
+
+	Xfe is freeware. You may copy and distribute it.
+You may also want to modify this program. If you think that 
+your modificatons can be useful to other users, please contact
+me so that I can include your modification in the next release.
+Thanks for not spreading modified versions of xfe without my
+consent.
+see the 'TODO' file for some ideas...
+
+
+INTRODUCTION
+============
+
+	XFractal_explorer is, as you may have already understood, a program
+which allows you to compute and explore fractals. The types of fractals 
+available are:
+- Mandelbrot
+- Julia
+- Mandel-n
+- Julia-n
+- Newton
+- Lambda & MandelLambda
+- Mark's Mandel & Julia
+- Barnsley 1,2,3 Mandel & Julia
+- MandelCosine & JuliaCosine
+- MandelSine & JuliaSine
+- Noel 1 & 2
+- Phoenix
+- Spider
+	
+	XFractal_Explorer can speak English as well as French.
+
+	The program runs under X Window and uses Motif. Furthermore, it needs
+a 8 plane display (256 colors).
+	You will find more information in the xfe.doc files. xfe.doc.eng is in
+English whereas xfe.doc.fra is in French.
+
+
+
+COMPILATION
+===========
+
+You will have to use the Makefile: 
+Go in the 'src' directory.
+You will probably have to modify the Makefile (change the
+X11 and Motif paths at least).
+You may also want to modify some constants (image size...) in the
+fractal_type.h file.
+Then type 'make' and wait.
+
+The program has been tested on hpux systems (hp 9000),apollo and 
+IBM RS 6000.
+
+Enjoy it !!!
+
+
+
+
+
+For any comment, suggestion, bug, advice or whatever, please contact me:
+
+Nicolas GUERIN
+168 Avenue Parmentier
+75010 PARIS
+FRANCE
+
+email: guerin@reseau.onecert.fr

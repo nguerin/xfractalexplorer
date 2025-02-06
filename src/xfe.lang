@@ -1,0 +1,400 @@
+001:fra:{Bonjour}
+001:eng:{Welcome}
+002:fra:{Quitter}
+002:eng:{Quit}
+003:fra:{Information}
+003:eng:{Status}
+004:fra:{GO}
+004:eng:{GO}
+005:fra:{Fichier }
+005:eng:{File    }
+006:fra:{Affichage}
+006:eng:{Display  }
+007:fra:{Options }
+007:eng:{Options }
+008:fra:{Palette }
+008:eng:{Palette }
+009:fra:{Parametres}
+009:eng:{Parameters}
+010:fra:{Type  }
+010:eng:{Type  }
+011:fra:{Bibli.  }
+011:eng:{Library }
+012:fra:{Calcul     }
+012:eng:{Computation}
+013:fra:{Animation  }
+013:eng:{Animation  }
+014:fra:{Noir & blanc}
+014:eng:{Black & white}
+015:fra:{Gris}
+015:eng:{Grey}
+016:fra:{Couleur}
+016:eng:{Color}
+017:fra:{Image PPM (fond)}
+017:eng:{PPM pic (backgnd)}
+018:fra:{Image GIF}
+018:eng:{GIF picture}
+019:fra:{Postscript (fond)}
+019:eng:{Postscript (backgnd)}
+020:fra:{Parametres}
+020:eng:{Parameters}
+021:fra:{Image GIF}
+021:eng:{GIF picture}
+022:fra:{Parametres}
+022:eng:{Parameters}
+023:fra:{A propos...}
+023:eng:{About}
+024:fra:{Sauvegarde}
+024:eng:{Save}
+025:fra:{Charge}
+025:eng:{Load}
+026:fra:{Quitter}
+026:eng:{Quit}
+027:fra:{Normal}
+027:eng:{Normal}
+028:fra:{Decomposition}
+028:eng:{Decomposition}
+029:fra:{Estimateur}
+029:eng:{Estimator}
+030:fra:{Palette logarithmique}
+030:eng:{Logarithmic palette}
+031:fra:{Tampon couleurs}
+031:eng:{Color buffer}
+032:fra:{Gestion evenements}
+032:eng:{Events handling}
+033:fra:{Rectangle -> pixel}
+033:eng:{Rectangle to pixel}
+034:fra:{Initialisation fractale}
+034:eng:{Init. fractal}
+035:fra:{Bip en fin de calcul}
+035:eng:{Bell}
+036:fra:{Haute precision}
+036:eng:{High precision}
+037:fra:{Charger palette}
+037:eng:{Load palette}
+038:fra:{Afficher palette}
+038:eng:{Display palette}
+039:fra:{Cycler couleurs}
+039:eng:{Color cycling}
+040:fra:{Constante}
+040:eng:{Constant}
+041:fra:{Complexe}
+041:eng:{Complex}
+042:fra:{Entiere}
+042:eng:{Integer}
+043:fra:{Taille image}
+043:eng:{Image size}
+044:fra:{Cliquer constante}
+044:eng:{Click constant}
+045:fra:{Nbre d'iterations}
+045:eng:{Nbr of iterations}
+046:fra:{Taille tampon}
+046:eng:{Buffer size}
+047:fra:{Valeur echapp.}
+047:eng:{Bailout value}
+048:fra:{Nouvelle taille}
+048:eng:{New size}
+049:fra:{Taille max.}
+049:eng:{Size max.}
+050:fra:{Taille x2}
+050:eng:{Size x2}
+051:fra:{Taille x1.5}
+051:eng:{Size x1.5}
+052:fra:{Taille /2}
+052:eng:{Size /2}
+053:fra:{Taille /1.5}
+053:eng:{Size /1.5}
+054:fra:{Entrer taille}
+054:eng:{Enter size}
+055:fra:{Zoom Avant}
+055:eng:{Zoom in}
+056:fra:{Zoom centre prop.}
+056:eng:{Zoom center prop.}
+057:fra:{Zoom coin prop.}
+057:eng:{Zoom corner prop.}
+058:fra:{Zoom coin non p.}
+058:eng:{Zoom corner non p.}
+059:fra:{Zoom avant}
+059:eng:{Zoom in}
+060:fra:{Zoom arriere}
+060:eng:{Zoom out}
+061:fra:{Entrer coords}
+061:eng:{Enter coords}
+062:fra:{Facteur}
+062:eng:{Factor}
+063:fra:{Ecran}
+063:eng:{Screen}
+064:fra:{Ancienne taille}
+064:eng:{Current size}
+065:fra:{Nouvelle taille}
+065:eng:{New size}
+066:fra:{Image a image}
+066:eng:{Picture to pic.}
+067:fra:{Pt source a pt src}
+067:eng:{Source pt to src pt}
+068:fra:{Param image 1}
+068:eng:{Param pic 1}
+069:fra:{Param image 2}
+069:eng:{Param pic 2}
+070:fra:{Calcul}
+070:eng:{Computation}
+071:fra:{Affichage normal (nbre d'iterations)}
+071:eng:{Normal display (iteration number)}
+072:fra:{Ca ne marche pas encore}
+072:eng:{It does not work yet}
+073:fra:{XFractal_Explorer v1.1 par Nicolas GUERIN}
+073:eng:{XFractal_Explorer v1.1 by Nicolas GUERIN}
+074:fra:{Decomposition binaire du plan}
+074:eng:{Binary decomposition of the plane}
+075:fra:{Inversion}
+075:eng:{Inversion}
+076:fra:{Estimateur de distance (Mandelbrot)}
+076:eng:{Distance estimator (Mandelbrot)}
+077:fra:{Gestion evenements}
+077:eng:{Event handling}
+078:fra:{Pas de gestion evenements}
+078:eng:{Event handler desactivated}
+079:fra:{Affichage avec tampon}
+079:eng:{Color buffer display}
+080:fra:{Affichage direct}
+080:eng:{Direct display}
+081:fra:{Mode pixel}
+081:eng:{Pixel display}
+082:fra:{Mode rectangle->pixel}
+082:eng:{Rectangle to pixel display}
+083:fra:{Bip selectionne}
+083:eng:{The bell will ring at the end of the computation}
+084:fra:{Plus de Bip}
+084:eng:{No bell}
+085:fra:{Initialisation a chaque changement de genre}
+085:eng:{Constant initialisation when changing type}
+086:fra:{Pas d'initialisation a chaque changement de genre}
+086:eng:{No constant initialisation when changing type}
+087:fra:{Palette logarithmique}
+087:eng:{Logarithmic palette}
+088:fra:{Palette cyclique}
+088:eng:{Cyclic palette}
+089:fra:{Utilisation des 'long double'- Mandelbrot seulement}
+089:eng:{Using 'long double'- Mandelbrot only}
+090:fra:{Retour aux 'double'}
+090:eng:{Back to only double precision float}
+091:fra:{btn1 pour selectionner, btn2 pour valider, btn3 pour annuler}
+091:eng:{1st mouse button to select, 2nd to validate, 3rd to cancel}
+092:fra:{fichier non trouve}
+092:eng:{Can't find file}
+093:fra:{Chargement de l'image}
+093:eng:{Loading Picture}
+094:fra:{Taille maximale}
+094:eng:{Maximum size}
+095:fra:{Nouvelle taille}
+095:eng:{New size}
+096:fra:{selection->Bouton gauche quitter->bouton du milieu}
+096:eng:{1st mouse-button to select, 2nd to cancel}
+097:fra:{Point source selectionne}
+097:eng:{Source point selected}
+098:fra:{Zoom arriere x2}
+098:eng:{Zoom out x2}
+099:fra:{Zoom arriere x5}
+099:eng:{Zoom out x5}
+100:fra:{Zoom arriere x20}
+100:eng:{Zoom out x20}
+101:fra:{Zoom avant x2}
+101:eng:{Zoom in x2}
+102:fra:{Zoom avant x5}
+102:eng:{Zoom in x5}
+103:fra:{Zoom avant x20}
+103:eng:{Zoom in x20}
+104:fra:{Entrez la taille desiree}
+104:eng:{Enter new size}
+105:fra:{Nouvelle taille}
+105:eng:{New size}
+106:fra:{Parametres du cyclage de couleurs}
+106:eng:{Color cycling parameters}
+107:fra:{Entrez le point source dans le plan complexe}
+107:eng:{Enter source point value}
+108:fra:{Entrez les coordonnees du point inferieur droit}
+108:eng:{Enter coordinates of the lower right corner}
+109:fra:{Entrez les coordonnees du point superieur gauche}
+109:eng:{Enter coordinates of the upper left corner}
+110:fra:{Nouveau nombre d'iterations}
+110:eng:{New number of iterations}
+111:fra:{Estimateur de distance (Mandelbrot)}
+111:eng:{Distance estimator (Mandelbrot)}
+112:fra:{Entrez la taille du tampon (<500)}
+112:eng:{Enter color buffer size (<500)}
+113:fra:{  Largeur}
+113:eng:{  Width}
+114:fra:{  Hauteur}
+114:eng:{  Height}
+115:fra:{Entrez le point source final}
+115:eng:{Enter last source point}
+116:fra:{Entrez le point source initial}
+116:eng:{Enter first source point}
+117:fra:{Parametres de l'image initiale memorises}
+117:eng:{Parameters of the first picture recorded}
+118:fra:{Parametres de l'image finale memorises}
+118:eng:{Parameters of the last picture recorded}
+119:fra:{Annuler}
+119:eng:{Cancel}
+120:fra:{Cyclage}
+120:eng:{Cycling}
+121:fra:{ Nombre }
+121:eng:{ Number }
+122:fra:{Sens1/2}
+122:eng:{Direction1/2}
+123:fra:{Point Source}
+123:eng:{Source point}
+124:fra:{Partie Reelle}
+124:eng:{Real part}
+125:fra:{Partie imag}
+125:eng:{Imag. part}
+126:fra:{Coin inf. droit}
+126:eng:{Lower right corner}
+127:fra:{Coin sup. gauche}
+127:eng:{Upper left corner}
+128:fra:{Nombre d'iterations}
+128:eng:{Number of iterations}
+129:fra:{Distance mini}
+129:eng:{Minimal dist.}
+130:fra:{  Distance}
+130:eng:{  Distance}
+131:fra:{Parametre entier}
+131:eng:{Integer parameter}
+132:fra:{  Parametre}
+132:eng:{  Parameter}
+133:fra:{Taille du tampon}
+133:eng:{Buffer size}
+134:fra:{    Taille}
+134:eng:{     Size}
+135:fra:{Valeur d'echappement au carre}
+135:eng:{Bailout value squared}
+136:fra:{    Valeur}
+136:eng:{    Value}
+137:fra:{Nom de sauvegarde}
+137:eng:{Enter filename}
+138:fra:{    Nom}
+138:eng:{Filename}
+139:fra:{Nombre d'images}
+139:eng:{Number of pictures}
+140:fra:{Echec ouverture en lecture de la palette}
+140:eng:{Error trying to read the palette file}
+141:fra:{Parametres introuvables}
+141:eng:{Can't find parameters}
+142:fra:{Taille de l'image}
+142:eng:{Image size}
+143:fra:{Sauvegarde GIF en cours}
+143:eng:{Saving GIF file}
+144:fra:{Sauvegarde GIF terminee}
+144:eng:{File saved}
+145:fra:{C'est parti}
+145:eng:{Let's go}
+146:fra:{Echec ouverture en lecture de la bibliotheque}
+146:eng:{Error trying to open the library file}
+147:fra:{Filtrer}
+147:eng:{Filter}
+148:fra:{Annuler}
+148:eng:{Cancel}
+149:fra:{Ouvrir}
+149:eng:{Open}
+150:fra:{Repertoires}
+150:eng:{Directories}
+151:fra:{Repertoire}
+151:eng:{Directory}
+152:fra:{Fichiers}
+152:eng:{Files}
+153:fra:{Sauvegarde Parametres}
+153:eng:{Save parameters}
+154:fra:{Sauvegarde PPM}
+154:eng:{Save PPM file}
+155:fra:{Sauvegarde GIF}
+155:eng:{Save GIF file}
+156:fra:{Sauvegarde Postcript}
+156:eng:{Save Postscript file}
+157:fra:{INFORMATIONS}
+157:eng:{STATUS}
+158:fra:{Type de la fractale:}
+158:eng:{Fractal type:}
+159:fra:{CoordonnÅes des bords:}
+159:eng:{Corners coordinates:}
+160:fra:{Haut   :}
+160:eng:{Up     :}
+161:fra:{Bas    :}
+161:eng:{Down   :}
+162:fra:{Gauche :}
+162:eng:{Left   :}
+163:fra:{Droite :}
+163:eng:{Right  :}
+164:fra:{Grossissement :}
+164:eng:{Magnification :}
+165:fra:{Param Julia  Re:}
+165:eng:{Julia param  Re:}
+166:fra:{Param Julia  Im:}
+166:eng:{Julia param  Im:}
+167:fra:{Calcul en cours}
+167:eng:{Computation in progress}
+168:fra:{Calcul de la palette logarithmique}
+168:eng:{Computing logarithmic palette}
+169:fra:{Palette calculee}
+169:eng:{Palette calculated}
+170:fra:{Echec ouverture en creation}
+170:eng:{Error trying to create file}
+171:fra:{de l'image - bouton 2 pour stopper - bouton 3 pour rafraichir}
+171:eng:{calculated - 2nd mouse-button to stop - 3rd mouse-button to refresh}
+172:fra:{Sauvegarde de l'image au format PPM effectuee}
+172:eng:{PPM file saved}
+173:fra:{Fin du calcul}
+173:eng:{Computation finished}
+174:fra:{Palette installee}
+174:eng:{Palette installed}
+175:fra:{Palette non installee}
+175:eng:{Palette uninstalled}
+176:fra:{Calcul en memoire... selectionnez sauvegarde PPM ou Postcript}
+176:eng:{Background computation... Select PPM or Postscript save}
+177:fra:{ANIMATION}
+177:eng:{ANIMATION}
+178:fra:{Premiere image}
+178:eng:{First picture}
+179:fra:{Derniere image}
+179:eng:{Last picture}
+180:fra:{Taille}
+180:eng:{Size}
+181:fra:{Genre (voir "include.h")}
+181:eng:{Type of fractal (see "include.h")}
+182:fra:{Nombre d'images}
+182:eng:{Number of pictures}
+183:fra:{Coordonnees ecran,iterations,type dessin,echap.}
+183:eng:{Coordinates,iterations,drawing method,bailout value}
+184:fra:{Point source 1}
+184:eng:{Source point 1}
+185:fra:{Point source 2}
+185:eng:{Source point 2}
+186:fra:{Nombre d'iterations:}
+186:eng:{Number of iterations:}
+187:fra:{Commande annulee}
+187:eng:{Command cancelled}
+188:fra:{Erreur format parametre\n}
+188:eng:{Error in parameter format\n}
+189:fra:{Parametres OK}
+189:eng:{Parameters loaded}
+190:fra:{Nouveau type : }
+190:eng:{New type : }
+191:fra:{Sauver}
+191:eng:{Save}
+192:fra:{Voulez-vous sortir ?}
+192:eng:{Do you really want to quit?}
+193:fra:{Quitter}
+193:eng:{Quit}
+194:fra:{Etes-vous sur ?}
+194:eng:{Are you sure ?}
+195:fra:{Tache de fond}
+195:eng:{Background task}
+196:fra:{Vitesse 1-10}
+196:eng:{Speed 1-10}
+197:fra:{Pt courant pour image 1}
+197:eng:{Current pt for image 1}
+198:fra:{Pt courant pour image 2}
+198:eng:{Current pt for image 2}
+199:fra:{Calcul}
+199:eng:{Computation}
+200:fra:{Entree manuelle}
+200:eng:{Manual entry}

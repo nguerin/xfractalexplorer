@@ -1,0 +1,36 @@
+
+#ifdef HPArchitecture
+#if ProjectX < 5
+MOTIF_VER = Motif1.1
+#else
+MOTIF_VER = Motif1.2
+#endif
+CCOPTIONS = -Aa -D_HPUX_SOURCE -I/usr/include/$(MOTIF_VER)
+MOTIF_LIB = -L/usr/lib/$(MOTIF_VER)
+#endif
+
+XCOMM Ucomment next line if you want French language
+XCOMM LANGUAGE = -DFRENCH
+
+XFE_DIR = $(LIBDIR)/xfe
+ANIM_DIR = $(XFE_DIR)/Anim
+IMAGE_DIR = $(XFE_DIR)/Images
+PALETTE_DIR = $(XFE_DIR)/Palettes
+PARAM_DIR = $(XFE_DIR)/Params
+LANG_FILE = $(XFE_DIR)/src/xfe.lang
+
+SRCS = anim.c boite.c couleur.c fichier.c fractcalc.c fractdef.c gifcompr.c gifencod.c menu.c readGIF.c status.c xfe.c
+OBJS = anim.o boite.o couleur.o fichier.o fractcalc.o fractdef.o gifcompr.o gifencod.o menu.o readGIF.o status.o xfe.o
+
+DEFINES = -DIMAGE_DIR=\"$(IMAGE_DIR)\" -DPALETTE_DIR=\"$(PALETTE_DIR)\" -DPARAM_DIR=\"$(PARAM_DIR)\" -DLANG_FILE=\"$(LANG_FILE)\" -DANIM_DEF=\"$(ANIM_DIR)/def\" $(LANGUAGE)
+
+LOCAL_LIBRARIES = $(MOTIF_LIB) -lXm -lXt -lX11 -lm
+
+ComplexProgramTarget(xfe)
+MakeDirectories(install,$(ANIM_DIR))
+MakeDirectories(install,$(IMAGE_DIR))
+MakeDirectories(install,$(PALETTE_DIR))
+MakeDirectories(install,$(PARAM_DIR))
+	-cd Palettes; cp * $(PALETTE_DIR)
+	-cp xfe.lang $(LANG_FILE)
+	-chmod -R a+r $(XFE_DIR)

@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.2/Param/benchlongdouble.par.par
+# Coordinates
+LEFT    :-1.997393788676944280499221952608499e-01
+TOP     :1.100165135294367226516279250821421e+00
+RIGHT   :-1.997393788676941305043952789233650e-01
+BOTTOM  :1.100165135294366988479857717751433e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.2/Palettes/chroma.map

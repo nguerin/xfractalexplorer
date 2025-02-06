@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/tmp_mnt/users/odin/promo_95/guerin/TEP/Images/tail_bw.ps.par
+# Coordinates
+LEFT    :2.730517371348015254195473744402988e-01
+TOP     :7.390133302738136067411289786832586e-03
+RIGHT   :2.730523595572900752426193093924666e-01
+BOTTOM  :7.389635364747296208953741825098351e-03
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :3000
+HEIGHT  :2000
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :4
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :./Palettes/bw.cmap

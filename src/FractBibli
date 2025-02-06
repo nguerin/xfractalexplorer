@@ -1,0 +1,1479 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/big.gif
+# Coordinates
+LEFT    :-7.749578060294939881773659817731927e-01
+TOP     :1.232535189696480953198617913635360e-01
+RIGHT   :-7.749578054505584070619714220917730e-01
+BOTTOM  :1.232535185064996304275461436184003e-01
+# Iterations
+ITER    :2200
+# Image size
+WIDTH   :2560
+HEIGHT  :2048
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/main-big.gif.gif
+# Coordinates
+LEFT    :-2.250000000000000000000000000000000e+00
+TOP     :1.400000000000000000000000000000000e+00
+RIGHT   :1.250000000000000000000000000000000e+00
+BOTTOM  :-1.400000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :2560
+HEIGHT  :2048
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/mand3-1.gif
+# Coordinates
+LEFT    :1.595252990722656338554330020121710e-01
+TOP     :1.095729827880859435825224184094494e+00
+RIGHT   :1.662010192871093842260099164359274e-01
+BOTTOM  :1.090389251708984435528762652555489e+00
+# Iterations
+ITER    :3000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :27
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :3
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/main-300dpi.gif
+# Coordinates
+LEFT    :-2.473788721207307386814932486100079e+00
+TOP     :1.400000000000000000000000000000000e+00
+RIGHT   :1.473788721207307386814932486100079e+00
+BOTTOM  :-1.400000000000000000000000000000000e+00
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :3550
+HEIGHT  :2518
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/zoomMini1.gif
+# Coordinates
+LEFT    :-1.749555664983451936170255613944846e+00
+TOP     :-1.396727380454332485826274279361636e-04
+RIGHT   :-1.749555662778815804314289095167112e+00
+BOTTOM  :-1.396745017543387333558424501234507e-04
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/zoomMini3.gif
+# Coordinates
+LEFT    :-1.748411596050209482200443744659424e+00
+TOP     :-8.885726751941547263413667678832526e-04
+RIGHT   :-1.748411450154753765673376619815826e+00
+BOTTOM  :-8.886893915587279479950666427611823e-04
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/zoomMini4.gif
+# Coordinates
+LEFT    :-1.748411524179956608171515597405232e+00
+TOP     :-8.886302951725058574261595367715445e-04
+RIGHT   :-1.748411523244957654910081146226730e+00
+BOTTOM  :-8.886310431716684665737204795731914e-04
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print3.gif
+# Coordinates
+LEFT    :-1.748411524011215324742012607748713e+00
+TOP     :-8.886304558754509492352058330765859e-04
+RIGHT   :-1.748411523405663791084993683568434e+00
+BOTTOM  :-8.886308853905951037066568432009690e-04
+# Iterations
+ITER    :5000
+# Image size
+WIDTH   :3550
+HEIGHT  :2518
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/zoomMini5.gif
+# Coordinates
+LEFT    :-1.748411523729255391882963171177271e+00
+TOP     :-8.886306526557118710281820265366650e-04
+RIGHT   :-1.748411523689042985351051758243424e+00
+BOTTOM  :-8.886306848256370965573123736141477e-04
+# Iterations
+ITER    :3000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print3bis.gif
+# Coordinates
+LEFT    :-1.748411524012168124137022243158590e+00
+TOP     :-8.886304558754509492352058330765859e-04
+RIGHT   :-1.748411523404710991689984048158557e+00
+BOTTOM  :-8.886308853905951037066568432009690e-04
+# Iterations
+ITER    :5000
+# Image size
+WIDTH   :2970
+HEIGHT  :2100
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/bench.gif
+# Coordinates
+LEFT    :-7.504780434608673611585061280493396e-01
+TOP     :1.740884442680812327353123691864336e-02
+RIGHT   :-7.504674664423269719870646099479931e-01
+BOTTOM  :1.740038281197581193637802243756620e-02
+# Iterations
+ITER    :20000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print4.gif
+# Coordinates
+LEFT    :-1.674294132633808018795207317452878e-01
+TOP     :1.041268573146676956753253762144595e+00
+RIGHT   :-1.674292741674178941480022331234069e-01
+BOTTOM  :1.041268474795996112902685126755387e+00
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :2970
+HEIGHT  :2100
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print5.gif
+# Coordinates
+LEFT    :-5.483484922139288398923579945142664e-01
+TOP     :-5.293990159204455826311304898756926e-01
+RIGHT   :-5.483484793748678527036201715928072e-01
+BOTTOM  :-5.293990250178373678391504329743266e-01
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :3500
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/volcano2.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print6.gif
+# Coordinates
+LEFT    :-1.185368186109352802392799452307724e+00
+TOP     :3.047840421337241423316299915313723e-01
+RIGHT   :-1.185366993413614170916140034434295e+00
+BOTTOM  :3.047831987104473228100687265396116e-01
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/fire.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print4bis.gif
+# Coordinates
+LEFT    :-1.674294223943577217902833170580467e-01
+TOP     :1.041268579609721697920576843898743e+00
+RIGHT   :-1.674292650364409742372396478106480e-01
+BOTTOM  :1.041268468332951371735362045001239e+00
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print7.gif
+# Coordinates
+LEFT    :-1.405002559270538069044151670301537e+00
+TOP     :1.655794938851331448106282025325782e-03
+RIGHT   :-1.405002559240655290786670952672930e+00
+BOTTOM  :1.655794917719512207002153220380407e-03
+# Iterations
+ITER    :8000
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :6
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/chroma.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print8.gif
+# Coordinates
+LEFT    :-1.749949902709157465386758377242518e+00
+TOP     :3.664530252225239219734942430738870e-06
+RIGHT   :-1.749949902708857888463591354888374e+00
+BOTTOM  :3.664530040377286709265755582064942e-06
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/juteblue.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print9.gif
+# Coordinates
+LEFT    :-1.185367596835931250623879366816566e+00
+TOP     :3.047837410385574766040484018247982e-01
+RIGHT   :-1.185367594525877637689912509717687e+00
+BOTTOM  :3.047837394057247091712359310378132e-01
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :2340
+HEIGHT  :1654
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/chroma.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print10.gif
+# Coordinates
+LEFT    :-1.748411605616661994367305592884178e+00
+TOP     :-8.885726751941547263413667678830215e-04
+RIGHT   :-1.748411440588301253506514771591072e+00
+BOTTOM  :-8.886893915587279479950666427614135e-04
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :2924
+HEIGHT  :2068
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/juteblue.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print11.gif
+# Coordinates
+LEFT    :-1.748411524035417915262956431486568e+00
+TOP     :-8.886304398051564400543012034460817e-04
+RIGHT   :-1.748411523378539328835107877170646e+00
+BOTTOM  :-8.886309043827613418295441327642921e-04
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :2924
+HEIGHT  :2068
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/volcano3.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/print12.gif
+# Coordinates
+LEFT    :-5.483484858225787799513126495477097e-01
+TOP     :-5.293990204408011964955848344486003e-01
+RIGHT   :-5.483484857740644629687115915509501e-01
+BOTTOM  :-5.293990204751129637732931066569789e-01
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :2924
+HEIGHT  :2068
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/volcano3.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile1.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :512
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile2.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :1750
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile3.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :750
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile4.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :2000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile5.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :1500
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile6.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :12000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile7.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :1100
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile8.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :1300
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile9.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :400
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile10.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :70
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile11.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :100
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile12.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :3
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile13.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :1
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile14-1.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :1000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile15-2a.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :3000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/volcano.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile15-2b.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :3000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/royal.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile15-2b.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :3000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/royal.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile15-2c.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :3000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/blues.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile16.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :10000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile16b.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :10000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/juteblue.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile16c.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :256
+HEIGHT  :256
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :10000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/volcano2.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/tile-final.gif
+# Coordinates
+LEFT    :-1.375000000000000000000000000000000e+00
+TOP     :3.125000000000000000000000000000000e-01
+RIGHT   :-1.062500000000000000000000000000000e+00
+BOTTOM  :0.000000000000000000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :512
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :10000
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/mand-minmod1.gif
+# Coordinates
+LEFT    :-7.749533923738135085534928236938869e-01
+TOP     :1.232541262083509558955540796887362e-01
+RIGHT   :-7.749530254880503322978402280796219e-01
+BOTTOM  :1.232538326997404148910320031973242e-01
+# Iterations
+ITER    :25000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :3.000000000000000000000000000000000e+09
+C1.IM   :1.500000000000000000000000000000000e+08
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/bw.gif
+# Coordinates
+LEFT    :-2.300508171819871471774193548387097e+00
+TOP     :1.131262207031250000000000000000000e+00
+RIGHT   :9.400406425229964717741935483870965e-01
+BOTTOM  :-1.160314941406250000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :2.000000000000000000000000000000000e+03
+C1.IM   :6.200000000000000000000000000000000e+01
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/gamma1.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/bw2.gif
+# Coordinates
+LEFT    :-2.300508171819871471774193548387097e+00
+TOP     :1.131262207031250000000000000000000e+00
+RIGHT   :9.400406425229964717741935483870965e-01
+BOTTOM  :-1.160314941406250000000000000000000e+00
+# Iterations
+ITER    :250
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :2.000000000000000000000000000000000e+03
+C1.IM   :6.200000000000000000000000000000000e+01
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/grey.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/toto.gif.gif
+# Coordinates
+LEFT    :-1.185368186109352802392799452307724e+00
+TOP     :3.047840421337241423316299915313723e-01
+RIGHT   :-1.185366993413614170916140034434295e+00
+BOTTOM  :3.047831987104473228100687265396116e-01
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :3507
+HEIGHT  :2480
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.2/Images/BigRed.gif
+# Coordinates
+LEFT    :-1.748411597865329898963238145217381e+00
+TOP     :-8.885773991592005574111997850628178e-04
+RIGHT   :-1.748411448339633348910582219257870e+00
+BOTTOM  :-8.886846675936821169252336255816171e-04
+# Iterations
+ITER    :10000
+# Image size
+WIDTH   :4600
+HEIGHT  :3300
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.2/Palettes/juteblue.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.2/Images/ElephantOnGrass.medium.gif
+# Coordinates
+LEFT    :-1.747470079196904421681146857281419e+00
+TOP     :4.948995081720061750552019930182786e-03
+RIGHT   :-1.747467090986035829353051340717684e+00
+BOTTOM  :4.946604513025187888075606679194669e-03
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.2/Palettes/juteblue.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.2/Images/ElephantOnGrass.print.gif
+# Coordinates
+LEFT    :-1.747470251245408976997006902174483e+00
+TOP     :4.948995081720061750552019930182786e-03
+RIGHT   :-1.747466918937531274037191295824621e+00
+BOTTOM  :4.946604513025187888075606679194669e-03
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :4600
+HEIGHT  :3300
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.2/Palettes/juteblue.map
+
+
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.2/Images/ElephantOnGrass.print2.gif
+# Coordinates
+LEFT    :-1.747470251245408976997006902174483e+00
+TOP     :4.948995081720061750552019930182786e-03
+RIGHT   :-1.747466918937531274037191295824621e+00
+BOTTOM  :4.946604513025187888075606679194669e-03
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :4600
+HEIGHT  :3300
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.2/Palettes/juteblue.map
+
+

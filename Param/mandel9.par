@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Param/mandel9.par
+# Coordinates
+LEFT    :-1.790245944606317519385959766402977e+00
+TOP     :2.631353347229482592291305298565105e-08
+RIGHT   :-1.790245944603100080120050211071256e+00
+BOTTOM  :2.631095952088209827864767609389871e-08
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :960
+HEIGHT  :768
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap

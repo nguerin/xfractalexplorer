@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/zoomMini5.par
+# Coordinates
+LEFT    :-1.748411523729255391882963171177271e+00
+TOP     :-8.886306526557118710281820265366650e-04
+RIGHT   :-1.748411523689042985351051758243424e+00
+BOTTOM  :-8.886306848256370965573123736141477e-04
+# Iterations
+ITER    :3000
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap

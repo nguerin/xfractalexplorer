@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.2/Images/ElephantOnGrass.medium.par
+# Coordinates
+LEFT    :-1.747470079196904421681146857281419e+00
+TOP     :4.948995081720061750552019930182786e-03
+RIGHT   :-1.747467090986035829353051340717684e+00
+BOTTOM  :4.946604513025187888075606679194669e-03
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :640
+HEIGHT  :512
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :0
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.2/Palettes/juteblue.map

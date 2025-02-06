@@ -1,0 +1,20 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/tmp_mnt/users/odin/promo_95/guerin/TEP/Images/mandel65.par
+# Coordinates
+LEFT    :-1.416703862929103052703538878631662e+00
+TOP     :-6.190543634606238288903357539190930e-07
+RIGHT   :-1.416703146210343211564008925051894e+00
+BOTTOM  :-1.192765859014212044181816272121062e-06
+# Iterations
+ITER    :15000
+# Image size
+WIDTH   :960
+HEIGHT  :768
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Logarithmic palette on/off
+LOGPAL  :1

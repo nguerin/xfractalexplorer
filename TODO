@@ -1,0 +1,69 @@
+DISTRIBUTION POLICY
+===================
+
+	Xfe is freeware. You may copy and distribute it.
+You may also want to modify this program. If you think that 
+your modificatons can be useful to other users, please contact
+me so that I can include your modification in the next release.
+Thanks for not spreading modified versions of xfe without my
+consent.
+
+Here are a few things to do. I may implement some of them
+quickly, and may not...
+If you want to do one of these improvements, or others, just
+do them and contact me !!
+
+
+BUGS TO CORRECT
+===============
+
+- log palette with some fractal types
+- problems with the menu creation on some platforms
+- Command window refreshing
+
+
+
+ENHANCEMENTS
+============
+
+- Anti-aliasing: for each pixel, calculate 4 or 9 or 16 points and average
+   -----
+   | | |
+   -----
+   | | |
+   -----
+- Several logpalettes. Need slower increase.
+- Automatic iteration ?
+- HSV color space ?
+
+
+Interface
+---------
+- Open a special window when a fractal type is selected,
+  where we can change the parameters and view the fractal
+  equation.
+- Allow the program to make posters composed of several
+  Postscript files.
+- Save postscript in different page formats 
+  (A4 only available now).
+- Enter new fractal types.
+- window size scalable with mouse.
+- Improve the status window.
+- Ressource management.
+
+
+Computation
+-----------
+- inside color
+- periodicity checking
+- continuous potential method
+- color distance estimator method
+- color decomposition method
+
+
+
+- Couleurs: se reserver N&B ?
+- faire un package pour la distribution
+- Pb des ratios. ecran 1280/1024 ou autre.
+- fichier contenant les valeurs initiales par defaut
+- mettre a jour la doc

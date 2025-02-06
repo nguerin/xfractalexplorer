@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/xfe/Images/alagado.ppm.par
+# Coordinates
+LEFT    :-7.591280027325124314858430241148568e-01
+TOP     :7.662536957735477744299438032649086e-02
+RIGHT   :-7.591277958015154528749295070877423e-01
+BOTTOM  :7.662525317866897700146058131087656e-02
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :3840
+HEIGHT  :2160
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/xfe/Palettes/greycolor.cmap

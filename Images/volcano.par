@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe/Images/volcano.par
+# Coordinates
+LEFT    :-1.476241170393768697998750083488773e+00
+TOP     :3.658249898580834236743445546727327e-03
+RIGHT   :-1.476239518373040482423531882805179e+00
+BOTTOM  :3.656928281998261776526533352489612e-03
+# Iterations
+ITER    :2500
+# Image size
+WIDTH   :6400
+HEIGHT  :5120
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe/Palettes/volcano.map

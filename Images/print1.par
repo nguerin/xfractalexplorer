@@ -1,0 +1,27 @@
+# Path and name of the associated GIF file (if exists)
+NAME    :/home/guerin/Divers/Frac/xfe-v1.1/Images/big.par
+# Coordinates
+LEFT    :-7.749578060294939881773659817731927e-01
+TOP     :1.232535189696480953198617913635360e-01
+RIGHT   :-7.749578054505584070619714220917730e-01
+BOTTOM  :1.232535185064996304275461436184003e-01
+# Iterations
+ITER    :2200
+# Image size
+WIDTH   :2560
+HEIGHT  :2048
+# Fractal type (see fractal_type.h)
+TYPE    :1
+# Display
+DISPLAY :1
+# Bailout
+BAILOUT :4.0000000000000000e+00
+# Complex parameter
+C1.RE   :0.000000000000000000000000000000000e+00
+C1.IM   :0.000000000000000000000000000000000e+00
+# Integer parameter
+N1      :0
+# Logarithmic palette on/off
+LOGPAL  :1
+# Palette name
+PALETTE :/home/guerin/Divers/Frac/xfe-v1.1/Palettes/greycolor.cmap
